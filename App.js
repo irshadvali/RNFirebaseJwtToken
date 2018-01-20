@@ -1,6 +1,7 @@
 /**
  * Sample React Native App
  * https://github.com/facebook/react-native
+ * https://www.npmjs.com/package/firebase-token-generator
  * @flow
  */
 
